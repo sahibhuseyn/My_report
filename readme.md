@@ -1,6 +1,6 @@
 TASK_1:
 
-  "Variable":
+  "Variable": 
       - Hər hansı bir əməliyyatı həyata keçirə bilmək üçün onu yaddaşa yazmaq lazımdı. Yaddaşa yazdığımız əməliyyatı ramnan çağırıb istifadə eləmək üçün dəyişkəndən istifadə edilir: For exam. a = 5 yazdığımız zaman ramda bir yer ayırır və ora 5 yazılır. Ramda yazılan hər nöqtəni bir qutu kimi fikirləşəcək olsaq, qutunun içinə informasiya atırıq və daha sonra qutunu çağıra bilmək üçün ona ad veririk.
 
   "Programming paradigms":
@@ -34,5 +34,3 @@ TASK_2:
     "What is HTML and differences between HTML5 and  older versions?":
     "What are new features of HTML 5?":
       - HTML: programlaşdırma dilindən daha çox işarət dilidir (Hyper Text Markup Language). Web site qurmaq üçün istifadə olunur və əsas funksiyası website'in dizaynını qurmaqdı. Vaxt keçdikcə HTML inkişaf etdirilərək HTML5-ə qədər gəldi. HTML5-də onnan əvvəlki versiyalarda olan bəzi problemlər aradan qalxdı. Yeni tag'lar əlavə olundu. CSS ilə olan bəzi uyğunlaşma problemləri aradan qalxdı. Dizayn olaraq isə əsas istifadə etdiyi javascript və css-dir. Yeni tag'lar <article>, <aside>, <details>, <figcaption>, <figure>, <footer>, <header>, <main>, <mark>, <nav>, <section>, <summary>, <time> və s. gəlmişdir. Bunları istifadə etdikcə daha yaxşı öyrənəcəyik :).
-
-      
